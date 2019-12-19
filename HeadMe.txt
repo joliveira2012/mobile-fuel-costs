@@ -1,0 +1,21 @@
+SSL
+git config --global http.sslVerify false
+
+--------------------------------------------
+FIREBASE
+https://console.firebase.google.com/project
+
+Post
+url: https://cacluladoraflex-jaqueline.firebaseio.com/carro.json
+body: { "name":"Fusca", "ano": "1975" }
+retorno: { "name": "-Lw44333eyRcORzW-jY4" }
+
+Get
+https://cacluladoraflex-jaqueline.firebaseio.com/carro.json
+
+Delete
+https://cacluladoraflex-jaqueline.firebaseio.com/{idDoRetornoPost}
+--------------------------------------------
+http://facebook.github.io/stetho/
+
+Componentes da arquitetura android, novo padrão de projeto Android

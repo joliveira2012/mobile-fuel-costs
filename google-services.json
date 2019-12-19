@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "385568290364",
+    "firebase_url": "https://cacluladoraflex-jaqueline.firebaseio.com",
+    "project_id": "cacluladoraflex-jaqueline",
+    "storage_bucket": "cacluladoraflex-jaqueline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385568290364:android:a51eed54d2258730ed3539",
+        "android_client_info": {
+          "package_name": "br.com.jaqueline.oliveira.calculadoraflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385568290364-hta3b42hcnk5jlubb33obtrp1bll6k7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.jaqueline.oliveira.calculadoraflex",
+            "certificate_hash": "80d7aba3af0f29d89e62871ba62e18dd32e7bd9f"
+          }
+        },
+        {
+          "client_id": "385568290364-biomcukeql4iabc80r5rth8vd3kcopvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbZ8_KQ1fOlkOAydD2mnLOJCA-cMMRU5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385568290364-biomcukeql4iabc80r5rth8vd3kcopvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
